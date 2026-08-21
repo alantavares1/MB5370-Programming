@@ -1,7 +1,8 @@
 ## A repo with code and data for Techniques in Marine Science 1 (MB5370) - R for Marine Science
 #  Programming Fundamentals
 
-This repository contains coursework, exercises, and scripts completed for the MB5370 Programming Fundamentals unit, covering core R programming concepts, data wrangling, and applied marine science workflows.
+This repository contains coursework, exercises, and scripts completed for the MB5370 Programming Fundamentals unit, covering core R programming concepts, data wrangling, and applied marine science workflows. 
+Although R4MarineScience appears again in the next module of work it is named so in this repository because it was accidently pushed while in an incorrect file path.
 
 ## Contents
 
